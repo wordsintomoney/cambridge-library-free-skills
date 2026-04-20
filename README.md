@@ -84,18 +84,74 @@ More here:
 
 ## License
 
-Use these skills for personal and commercial projects.
+# The Cambridge Library… Free Skills License
 
-Do not resell, repackage, or redistribute them as your own standalone products.
+© Cambridge Jenkins IV / The Cambridge Library
+
+---
+
+## Summary (Plain English)
+
+You are free to use these skills in your personal and business work.
+
+You are NOT allowed to resell, redistribute, or repackage these skills as your own products.
+
+If you want to share them, link back to this repository.
+
+---
+
+## What You Can Do
+
+You are allowed to:
+
+- Use these skills for personal projects  
+- Use these skills for client work  
+- Use these skills in your business  
+- Modify and adapt them for your own needs  
+- Build on top of them for internal use  
+
+---
+
+## What You Cannot Do
+
+You are NOT allowed to:
+
+- Resell these skills as standalone products  
+- Repackage them for sale (even if modified)  
+- Upload them to marketplaces (Etsy, Gumroad, etc.)  
+- Redistribute them in other repositories or bundles  
+- Claim them as your original work  
+
+---
+
+## Attribution
+
+You are not required to give credit when using these skills privately or commercially.
+
+However, if you choose to share or showcase them, please link back to:
+
+👉 https://thecambridgelibrary.com
+
+---
+
+## No Warranty
+
+These skills are provided “as is” without any guarantees.
+
+Use them at your own discretion.
 
 ---
 
 ## Final Note
 
-Use these. Modify them. Break them. Improve them.
+These skills are meant to help you move faster and think better.
 
-The goal isn’t perfection…
+Use them. Improve them. Make them your own.
 
-It’s progress.
+Just don’t turn around and sell the originals.
 
-Cheers
+Cheers, 
+
+
+The Cambridge Library
+
