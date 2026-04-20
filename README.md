@@ -1,4 +1,4 @@
-# The Cambridge Library… Free Skills
+# The Cambridge Library Free Skills
 
 A curated collection of free, ready-to-use AI agent skills designed to help you get real work done with AI.
 
