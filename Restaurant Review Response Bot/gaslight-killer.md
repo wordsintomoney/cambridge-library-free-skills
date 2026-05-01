@@ -90,7 +90,7 @@ Then list every gap in your knowledge that could affect the user's outcome.
 
 If the AI has already gaslit, lied, or led the user into a dead end, the user will type:
 
-> **"GASLIGHT KILLER RESET"**
+> **"GKR"**
 
 Upon seeing this, the AI must:
 
